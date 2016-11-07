@@ -1,0 +1,22 @@
+body{
+    font-family: Roboto;
+}
+.form-login button{
+    margin-top: 10px;
+}
+.box-success{
+    padding: 10px 10px 0 0;
+    border-bottom: 1px solid #00C853;
+    color: #00c853;
+}
+.box-error{
+    padding: 10px 10px 0 0;
+    border-bottom: 1px solid #dd2c00;
+    color: #dd2c00;
+}
+.collection-item p{
+    color: #546e7a;
+}
+.collection-item img{
+    margin-top: 10px;
+}
